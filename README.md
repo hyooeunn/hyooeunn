@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYOEUN&fontSize=90&desc=Frontend%20major&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYOEUN&fontSize=90&desc=Front-end%20major&descAlignY=65)
 
 # 👩‍💻 CONTACT ME
 <a href="https://www.instagram.com/hvxeu/">
