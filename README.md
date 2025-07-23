@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact&theme=graywhite&hide_border=true&hide=c++)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hyooeunn&show_icons=true">
 
