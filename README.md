@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYOEUN&fontSize=90&textColor=F7EAEB&desc=Front-end%20major&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYOEUN&fontSize=90&color=F7EAEB&desc=Front-end%20major&descAlignY=65)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=pretendard&pause=1000&color=F7EAEB&background=C1FF4000&center=true&vCenter=true&width=435&lines=%EB%A7%A4%EC%9D%BC+%ED%95%9C+%EC%A4%84%EC%94%A9+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EC%A0%84%EA%B3%B5%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
