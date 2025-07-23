@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&color=F7EAEB&height=300&section=header&text=HYOEUN&fontSize=90&desc=Front-end%20major&descAlignY=65&textColor=0055ff)
+![header](https://capsule-render.vercel.app/api?type=blur&color=F7EAEB&height=300&section=header&text=HYOEUN&fontSize=90&desc=Front-end%20major&descAlignY=65&textColor=ffffff)
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=blur&color=F7EAEB&height=300&section=header&text=HYOEUN&fontSize=90&desc=Front-end%20major&descAlignY=65) -->
 
