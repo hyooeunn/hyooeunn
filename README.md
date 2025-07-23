@@ -36,8 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact&cache_seconds=1)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact"><br><br>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact"><br><br> -->
 <img src="https://github-readme-stats.vercel.app/api?username=hyooeunn&show_icons=true">
 
 </div>
