@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <br>
 
-<!-- ### 📊 Github stats
+### 📊 Github stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact&cache_seconds=1) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact"><br><br> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=hyooeunn&show_icons=true">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact&cache_seconds=1)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyooeunn&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=hyooeunn&show_icons=true">
 
-<br> -->
+<br>
 
 ### 👩‍💻 Contact 📫
 Email: s25049@gsm.hs.kr <br>
