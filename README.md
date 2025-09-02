@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 
 <br> -->
 
-### 👩‍💻 Contact 📫
-Email: s25049@gsm.hs.kr <br>
+<br>
 
 <!-- 애니멀 -->
 
@@ -55,7 +54,8 @@ Email: s25049@gsm.hs.kr <br>
 />
 </a>
 
-<br>
+### 👩‍💻 Contact 📫
+Email: s25049@gsm.hs.kr <br>
 
 <a href="https://www.instagram.com/hvxeu/">
   <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
