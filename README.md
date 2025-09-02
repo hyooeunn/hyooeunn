@@ -45,14 +45,7 @@ Here are some ideas to get you started:
 ### 👩‍💻 Contact 📫
 Email: s25049@gsm.hs.kr <br>
 
-<a href="https://www.instagram.com/hvxeu/">
-  <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://s25049.tistory.com/">
-  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
-</a>
-
-<!-- 애나멀 -->
+<!-- 애니멀 -->
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyooeunn&utm_content=farm">
 <img
@@ -61,6 +54,16 @@ Email: s25049@gsm.hs.kr <br>
   height="300"
 />
 </a>
+
+<br>
+
+<a href="https://www.instagram.com/hvxeu/">
+  <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://s25049.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
+</a>
+
   
   
 </div>
