@@ -57,13 +57,20 @@ Email: s25049@gsm.hs.kr <br>
 
 <!-- 애니멀 -->
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyooeunn&utm_content=farm">
+<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyooeunn&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hyooeunn"
   width="600"
   height="300"
 />
+</a> -->
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=hyooeunn&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/hyooeunn?pet-id=750607791195790443"
+    width="600"
+    height="150"
+  />
 </a>
-  
   
 </div>
