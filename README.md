@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <div align="center"> -->
+<div style="text-align: left;">
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HYOEUN&fontSize=90&desc=Front-end%20major&descAlignY=65)
 
@@ -74,4 +74,4 @@ Email: s25049@gsm.hs.kr <br>
   />
 </a> -->
   
-<!-- </div> -->
+</div>
