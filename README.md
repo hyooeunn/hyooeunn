@@ -22,21 +22,21 @@ Here are some ideas to get you started:
 </div>
 
 
-### 🏅 stack
+<!-- ### 🏅 stack
 <img src="https://img.shields.io/badge/html-A79277?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-D1BB9E?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-EAD8C0?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/python-FFF2E1?style=for-the-badge&logo=python&logoColor=white">
 
-<br>
+<br> -->
 
-### ⚒️ Tools
+<!-- ### ⚒️ Tools
 <img src="https://img.shields.io/badge/git-37353E?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-44444E?style=for-the-badge&logo=github&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/VSCode-715A5A?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/notion-e2e2e2?style=for-the-badge&logo=notion&logoColor=black">
 <img src="https://img.shields.io/badge/figma-D3DAD9?style=for-the-badge&logo=figma&logoColor=white">
-<br>
+<br> -->
 
 <!-- ### 📊 Github stats
 
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 <br> -->
 
 
-### 👩‍💻 Contact 📫
-Email: s25049@gsm.hs.kr <br>
+<!-- ### 👩‍💻 Contact 📫
+Email: s25049@gsm.hs.kr <br> -->
 
 <!-- <a href="https://www.instagram.com/hvxeu/">
   <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white">
