@@ -61,6 +61,44 @@ Email: s25049@gsm.hs.kr <br> -->
 
 <!-- 애니멀 -->
 
+``` tsx
+const hyoeun = {
+  name: "이효은",
+  role: "Front-End Developer",
+  school: "Gwangju Software Meister High School",
+  motto: "궁금하면 일단 매달려 봅니다 🐒",
+
+  stack: {
+    frontend: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
+    state: ["TanStack Query", "Zustand", "Axios"],
+    tools: ["Git", "Figma", "Claude Code", "Codex"],
+  },
+
+  projects: [
+    {
+      name: "Signal",
+      desc: "AI 기반 딥페이크 피해 예방·탐지·대응 서비스",
+      award: "🏅 제4회 네이버 OGQ 마켓 대상",
+    },
+    {
+      name: "GIF",
+      desc: "GSM Idea Festival 통합 관리 서비스",
+      award: "🏅 GSM DevFest 우수상",
+    },
+    {
+      name: "cowork",
+      desc: "채팅·GitHub 통합 협업 관리 플랫폼",
+      status: "진행 중",
+    },
+  ],
+
+  contact: {
+    email: "2eeoeun@gmail.com",
+    portfolio: "https://hyoeun-five.vercel.app",
+  },
+};
+```
+
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=hyooeunn&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/hyooeunn"
